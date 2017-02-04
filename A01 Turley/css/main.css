@@ -1,0 +1,59 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+h2 {
+    text-decoration: underline;
+}
+   
+#jumbo_contact{
+	bottom: 15%;
+	text-align: center;
+	background-color: #778899;
+	color: black;
+}
+#mainName{
+	text-align: center;
+}
+#mainPic {
+	background-image: url("https://axphotography.files.wordpress.com/2011/07/kansas-wheatfield.jpg");
+	background-size: cover;
+}
+#contactMe{
+	margin-left: 15%;
+}
+#length{
+	padding-left: 8%;
+}
+p{
+	font-family: "Arial";
+}
+.input_text{
+	color: blue;
+}
+.length_text{
+	color: blue;
+}
+#About1{
+	padding-left: 15%;
+}
+#About2{
+	padding-left: 15%;
+}
+ul.int1{
+	background-color: white;
+}
+#results{
+	padding-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+
